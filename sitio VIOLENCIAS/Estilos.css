@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: rgb(226, 207, 156);
+}
+h4{
+    text-align: center;
+
+}
+.hero {height: 500px;
+    background-image: url("Terrorismo-machista.jpeg");
+    background-repeat:no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    background-size: 85rem;
+    color: antiquewhite;
+
+}
+.list-group {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    color: rgb(80, 50, 5);
+    display: block;
+}
+
+footer {
+    background-color: rgb(228, 228, 209);
+}
+
+/*
+ont-family: 'EB Garamond', serif;
+font-family: 'Laila', sans-serif
+/* 
